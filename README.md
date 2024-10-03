@@ -9,9 +9,7 @@
 <img src="https://img.shields.io/github/followers/hoaithuong178" alt="GitHub User's followers" />
 </p>
 -   🌱 I’m currently learning **NextJS, SpringBoot, Django, Software Architecture, and other skills...**
-
 -   👨‍💻 All of my projects are available at [GitHub Me](https://github.com/hoaithuong178?tab=repositories)
-
 -   📫 How to reach me nguyenthihoaitthuong@gmail.com
 
 ### 🛠 &nbsp;Tech Stack
