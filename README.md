@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm HoaiThuong 👋</h1>
+<h1 align="center">Hello Everyone! I'm HoaiThuong 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Business+Analyst;Tester&center=true&width=500&height=50">
 </p>
